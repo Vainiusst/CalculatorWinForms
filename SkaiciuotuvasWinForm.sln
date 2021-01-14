@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkaiciuotuvasWinForm", "SkaiciuotuvasWinForm\SkaiciuotuvasWinForm.csproj", "{479FC0DC-801E-4C99-8F76-1C5FE91EABDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEnv", "TestEnv\TestEnv.csproj", "{99AA5E0C-CD49-4988-8BCE-CE204FE3D740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479FC0DC-801E-4C99-8F76-1C5FE91EABDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479FC0DC-801E-4C99-8F76-1C5FE91EABDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479FC0DC-801E-4C99-8F76-1C5FE91EABDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479FC0DC-801E-4C99-8F76-1C5FE91EABDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AA5E0C-CD49-4988-8BCE-CE204FE3D740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AA5E0C-CD49-4988-8BCE-CE204FE3D740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AA5E0C-CD49-4988-8BCE-CE204FE3D740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AA5E0C-CD49-4988-8BCE-CE204FE3D740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5BE2A45-1363-4EA5-9551-9759B77B8431}
+	EndGlobalSection
+EndGlobal
